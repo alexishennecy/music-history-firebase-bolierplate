@@ -29,6 +29,7 @@ function makeSongList(songList) {
   }
 }
 
+//this is prepared to pass a song into it, it will be the same form if we want to edit or add something to it, 
 function songForm(song, songId) {
   return new Promise(function (resolve, reject) {
     let songItem = {

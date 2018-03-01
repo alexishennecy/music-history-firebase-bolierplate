@@ -2,9 +2,9 @@
 
 function getKey() {
   return {
-    apiKey: "reallyLongValue",
-    authDomain: "something.firebaseapp.com",
-    databaseURL: "https://something.firebaseio.com"
+    apiKey: "AIzaSyAdnIthDHJtlRNQVG9Qo62H3M7Zg0lSlxk",
+    authDomain: "music-history-brendas.firebaseapp.com",
+    databaseURL: "https://music-history-brendas.firebaseio.com"
   };
 }
 
